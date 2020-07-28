@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+body{
+	background-color: #000000;
+}
+h1{
+	color: white;
+	font-family:'Sacramento' ;
+	text-align: center;
+	font-size: 3vw
+}
+h2{
+	color: white;
+	font-family: 'Sacramento' ;
+	font-size: 3vw
+}
+p{
+	color: white;
+	font-family: "Raleway" ;
+	text-align: justify;
+	font-size: 2vw
+}
+ul{
+	font-family: "Raleway" ;
+	font-size: 2vw;
+	color: white;
+}
+li{
+	color: white;
+	font-family: "Raleway" ;
+	font-size: 2vw
+}
+th{
+	color: white;
+	font-family:  "Raleway" ;
+	font-size: 2vw
+}
+td{
+	color: white ;
+	font-family: "Raleway" ;
+	font-size: 2vw;
+}
+table{
+	color: white:;
+	font-family:"Raleway" ;
+	width: 100vw ;
+	border-collapse: collapse;
+}
+th, td{
+	text-align: left;
+	padding: 8px;
+	border-bottom: 1px solid gray;
+}
+tr:hover{
+	background-color: rgba(255,255,255,01);
+}
+#portada{
+	background-image: url("./img/descarga.jpg");
+	width: 100%;
+	height: 40vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 10vw;
+
+}
+.LANZAMIENTOS{
+	width: 25vw ;
+}
+.vice{
+	margin: 5vw ;
+
+}
